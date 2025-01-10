@@ -1,0 +1,9 @@
+
+- setting up the project
+npm create vite@latest ./ -- --template react
+npm install
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
+rafce   -> type this and press enter in an empty jsx file
+        -> create empty component (works if "ES7 React/Redux/GraphQL/React-Native snippets" extension is installed)
